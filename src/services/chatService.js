@@ -1,6 +1,6 @@
 export async function getBotResponse(message) {
     try {
-        const response = await fetch("https://policy-exchange-api.onrender.com/chat", {
+        const response = await fetch("https://the-policy-exchange-chatbot.onrender.com/chat", {
             method: "POST",
             headers: {
                 "Content-Type": "application/json",
