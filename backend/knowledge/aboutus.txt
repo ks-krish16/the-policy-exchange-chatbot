@@ -1,0 +1,56 @@
+The Policy Exchange Knowledge Base
+
+ABOUT
+The Policy Exchange is an InsurTech platform under Fairvalue Insuretech Pvt. Ltd., founded in 2022 by industry veterans with over 50 years of combined BFSI experience.
+
+MISSION
+To improve liquidity in life insurance policies by connecting financially distressed policyholders with investors while ensuring insurance protection continues.
+
+PROBLEM
+Many policyholders surrender or discontinue their life insurance policies due to financial difficulties. This causes:
+- Loss of insurance protection for policyholders
+- Lower persistency for insurance companies
+- Loss of renewal income for insurance agents
+
+SOLUTION
+The Policy Exchange provides a marketplace where:
+- Policyholders can assign their policy to investors.
+- Investors pay the surrender value and future premiums.
+- Investors receive maturity benefits.
+- Policyholders continue to receive life insurance protection.
+- Insurance companies improve persistency.
+- Insurance agents continue receiving renewal commissions.
+
+BENEFITS
+
+Policyholder
+- Immediate liquidity
+- Continued life insurance coverage
+
+Investor
+- Stable investment opportunity
+- Guaranteed maturity benefits
+
+Insurance Company
+- Higher policy persistency
+- Reduced policy lapses
+
+Insurance Agent
+- Continued renewal income
+
+INDUSTRY IMPACT
+Current surrender/lapse value is approximately ₹1.5 lakh crore with around 15% CAGR.
+The Policy Exchange aims to:
+- Increase insurance penetration
+- Improve liquidity
+- Protect policyholders
+- Create investment opportunities
+
+SERVICES
+- Policy Exchange Platform
+- Policy Assignment
+- Investor Marketplace
+- Life Insurance Continuity
+
+CONTACT
+For information not covered here, users should contact The Policy Exchange support.
